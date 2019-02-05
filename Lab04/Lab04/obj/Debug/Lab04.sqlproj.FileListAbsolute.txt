@@ -1,0 +1,16 @@
+C:\Users\Konstantin\Documents\db\Lab04\Lab04\bin\Debug\Lab04.dacpac
+C:\Users\Konstantin\Documents\db\Lab04\Lab04\bin\Debug\Lab04.dll
+C:\Users\Konstantin\Documents\db\Lab04\Lab04\bin\Debug\Lab04.pdb
+C:\Users\Konstantin\Documents\db\Lab04\Lab04\obj\Debug\Lab04.sqlprojAssemblyReference.cache
+C:\Users\Konstantin\Documents\db\Lab04\Lab04\obj\Debug\Model.xml
+C:\Users\Konstantin\Documents\db\Lab04\Lab04\obj\Debug\refactor.xml
+C:\Users\Konstantin\Documents\db\Lab04\Lab04\obj\Debug\postdeploy.sql
+C:\Users\Konstantin\Documents\db\Lab04\Lab04\obj\Debug\predeploy.sql
+C:\Users\Konstantin\Documents\db\Lab04\Lab04\obj\Debug\Lab04.dll
+C:\Users\Konstantin\Documents\db\Lab04\Lab04\obj\Debug\Lab04.pdb
+D:\GitHub\basedate\4_4\Lab04\Lab04\Lab04\bin\Debug\Lab04.dacpac
+D:\GitHub\basedate\4_4\Lab04\Lab04\Lab04\bin\Debug\Lab04.dll
+D:\GitHub\basedate\4_4\Lab04\Lab04\Lab04\bin\Debug\Lab04.pdb
+D:\GitHub\basedate\4_4\Lab04\Lab04\Lab04\obj\Debug\Lab04.sqlprojAssemblyReference.cache
+D:\GitHub\basedate\4_4\Lab04\Lab04\Lab04\obj\Debug\Lab04.dll
+D:\GitHub\basedate\4_4\Lab04\Lab04\Lab04\obj\Debug\Lab04.pdb
