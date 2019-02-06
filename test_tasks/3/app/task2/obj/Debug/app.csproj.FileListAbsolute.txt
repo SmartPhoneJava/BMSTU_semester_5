@@ -1,0 +1,7 @@
+D:\GitHub\basedate\rk3\app\task2\bin\Debug\task2.exe.config
+D:\GitHub\basedate\rk3\app\task2\bin\Debug\task2.exe
+D:\GitHub\basedate\rk3\app\task2\bin\Debug\task2.pdb
+D:\GitHub\basedate\rk3\app\task2\obj\Debug\app.csprojAssemblyReference.cache
+D:\GitHub\basedate\rk3\app\task2\obj\Debug\app.csproj.CoreCompileInputs.cache
+D:\GitHub\basedate\rk3\app\task2\obj\Debug\task2.exe
+D:\GitHub\basedate\rk3\app\task2\obj\Debug\task2.pdb

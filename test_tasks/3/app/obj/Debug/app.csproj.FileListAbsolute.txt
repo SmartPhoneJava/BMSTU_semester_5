@@ -1,0 +1,14 @@
+D:\GitHub\basedate\example3\app\bin\Debug\app.exe.config
+D:\GitHub\basedate\example3\app\bin\Debug\app.exe
+D:\GitHub\basedate\example3\app\bin\Debug\app.pdb
+D:\GitHub\basedate\example3\app\obj\Debug\app.csprojAssemblyReference.cache
+D:\GitHub\basedate\example3\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+D:\GitHub\basedate\example3\app\obj\Debug\app.exe
+D:\GitHub\basedate\example3\app\obj\Debug\app.pdb
+D:\GitHub\basedate\rk3\app\bin\Debug\app.exe.config
+D:\GitHub\basedate\rk3\app\bin\Debug\app.exe
+D:\GitHub\basedate\rk3\app\bin\Debug\app.pdb
+D:\GitHub\basedate\rk3\app\obj\Debug\app.csprojAssemblyReference.cache
+D:\GitHub\basedate\rk3\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+D:\GitHub\basedate\rk3\app\obj\Debug\app.exe
+D:\GitHub\basedate\rk3\app\obj\Debug\app.pdb
