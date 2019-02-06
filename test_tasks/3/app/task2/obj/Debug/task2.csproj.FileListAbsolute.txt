@@ -1,7 +1,0 @@
-C:\bd_rk_ex\task2\task2\obj\Debug\task2.csprojAssemblyReference.cache
-C:\bd_rk_ex\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
-C:\bd_rk_ex\task2\task2\bin\Debug\task2.exe.config
-C:\bd_rk_ex\task2\task2\bin\Debug\task2.exe
-C:\bd_rk_ex\task2\task2\bin\Debug\task2.pdb
-C:\bd_rk_ex\task2\task2\obj\Debug\task2.exe
-C:\bd_rk_ex\task2\task2\obj\Debug\task2.pdb
