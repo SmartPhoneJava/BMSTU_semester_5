@@ -1,0 +1,14 @@
+D:\GitHub\basedate\8\lab8\bin\Debug\lab8.exe.config
+D:\GitHub\basedate\8\lab8\bin\Debug\lab8.exe
+D:\GitHub\basedate\8\lab8\bin\Debug\lab8.pdb
+D:\GitHub\basedate\8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+D:\GitHub\basedate\8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+D:\GitHub\basedate\8\lab8\obj\Debug\lab8.exe
+D:\GitHub\basedate\8\lab8\obj\Debug\lab8.pdb
+C:\msys64\home\BMSTU_semester_5\Lab08\bin\Debug\lab8.exe.config
+C:\msys64\home\BMSTU_semester_5\Lab08\bin\Debug\lab8.exe
+C:\msys64\home\BMSTU_semester_5\Lab08\bin\Debug\lab8.pdb
+C:\msys64\home\BMSTU_semester_5\Lab08\obj\Debug\lab8.csprojAssemblyReference.cache
+C:\msys64\home\BMSTU_semester_5\Lab08\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\msys64\home\BMSTU_semester_5\Lab08\obj\Debug\lab8.exe
+C:\msys64\home\BMSTU_semester_5\Lab08\obj\Debug\lab8.pdb

@@ -1,0 +1,7 @@
+C:\msys64\home\BMSTU_semester_5\Lab07\lab7_1\bin\Debug\lab7_1.exe.config
+C:\msys64\home\BMSTU_semester_5\Lab07\lab7_1\bin\Debug\lab7_1.exe
+C:\msys64\home\BMSTU_semester_5\Lab07\lab7_1\bin\Debug\lab7_1.pdb
+C:\msys64\home\BMSTU_semester_5\Lab07\lab7_1\obj\Debug\lab7_1.csprojAssemblyReference.cache
+C:\msys64\home\BMSTU_semester_5\Lab07\lab7_1\obj\Debug\lab7_1.csproj.CoreCompileInputs.cache
+C:\msys64\home\BMSTU_semester_5\Lab07\lab7_1\obj\Debug\lab7_1.exe
+C:\msys64\home\BMSTU_semester_5\Lab07\lab7_1\obj\Debug\lab7_1.pdb
